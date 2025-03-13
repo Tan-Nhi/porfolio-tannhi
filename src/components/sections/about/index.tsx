@@ -19,7 +19,7 @@ const About = () => {
           </h3>
           <div>
             <div>
-              <p> Hi Everyone, I am HoiDanIT from Hanoi, VietNam.</p>
+              <p> Hi Everyone, I am Tan Nhi from Can Tho, VietNam.</p>
 
               <p> I am currently employed as a a freelance dev (start-up).</p>
 
@@ -84,9 +84,9 @@ const About = () => {
                         <FaGraduationCap size={36} />
                       </div>
                       <div className="info">
-                        <p className="title">Softwaren Engineer</p>
+                        <p className="title">Software Engineer</p>
                         <p className="company">
-                          Hanoi University of Science and Technology (HUST)
+                          FPT Polytechnic Can Tho (Fpoly)
                         </p>
                       </div>
                     </div>
