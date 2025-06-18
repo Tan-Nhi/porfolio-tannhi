@@ -6,8 +6,8 @@ import { CONTACT_LOTTIE } from "assets/lottie/string/contact";
 import GlowCard from "components/share/glow-card";
 import { FaGraduationCap } from "react-icons/fa6";
 import Divider from "components/sections/divider";
-import { APP_DATA } from "helpers/data";
-import SocialMedia from "components/sections/social.media";
+// import { APP_DATA } from "helpers/data";
+// import SocialMedia from "components/sections/social.media";
 
 const About = () => {
   return (
@@ -25,8 +25,7 @@ const About = () => {
 
               <p>
                 {" "}
-                I have completed Bachelor's degree in Software Engineer at Hanoi
-                University of Science and Technology (HUST).
+                      I have completed Bachelor's e in Software Engineer at FPT Polytechnic Can Tho.
               </p>
             </div>
           </div>
@@ -101,13 +100,13 @@ const About = () => {
       <Divider />
       <Row>
         <Col md={6} xs={12} className=" mt-md-5 mt-3">
-          <h3 className="mb-md-5 mb-2">FIND ME ON </h3>
+          {/* <h3 className="mb-md-5 mb-2">FIND ME ON </h3>
           <SocialMedia
             youtube={APP_DATA.YOUTUBE_URL}
             facebook={APP_DATA.FACEBOOK_URL}
             tiktok={APP_DATA.TIKTOK_URL}
             udemy={APP_DATA.UDEMY_URL}
-          />
+          /> */}
         </Col>
         <Col
           md={6}

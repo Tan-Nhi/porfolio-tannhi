@@ -40,14 +40,14 @@ const Introduction = () => {
                         <br />
                         <br />
                         {t("introSection.heading5")}
-                        <i><b className='text-pink-100'>&nbsp;Java Spring</b> </i>
-                        {t("introSection.and")}
+                        <i><b className='text-pink-100'>&nbsp;Java Spring.</b> </i>
+                        {/* {t("introSection.and")}
                         <i>
                             <b className='text-pink-100'>
                                 {" "}
                                 Node.js
                             </b>
-                        </i>
+                        </i> */}
 
                     </p>
                 </Col>

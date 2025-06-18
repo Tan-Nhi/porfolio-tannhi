@@ -16,32 +16,32 @@ export const EXPERIENCES = [
     {
         id: 1,
         title: {
-            vi: "Lập Trình Viên",
+            vi: "Lập Trình Viên Fullstack",
             en: "Fullstack Developer"
         },
         company: {
-            vi: "Công ty ABCXYZ Ltd.",
-            en: "ABCXYZ Ltd."
+            vi: "Công ty VNPT Sóc Trăng.",
+            en: "VNPT Soc Trang."
         },
         duration: {
-            vi: "Jan 2024 - Hiện tại",
-            en: "Jan 2024 - Present"
+            vi: "01/2024 - 03/2024",
+            en: "01/2024-  03/2024"
         }
     },
     {
         id: 2,
         title: {
-            vi: "Lập Trình Viên",
-            en: "Fullstack Developer"
+            vi: "Lập Trình Viên Front-end",
+            en: "Front-end Developer"
         },
 
         company: {
-            vi: "Công ty F (freelancer)",
-            en: "F (freelancer)"
+            vi: "FPT Polytechnic Cần Thơ (Fpoly)",
+            en: "FPT Polytechnic Can Tho (Fpoly)"
         },
         duration: {
-            vi: "Tháng 6/2022 - Tháng 1/2024",
-            en: "Jun 2022 - Jan 2024"
+            vi: "01/2024 - 04/2024",
+            en: "01/2024 - 04/2024"
         }
     },
     {
@@ -55,8 +55,8 @@ export const EXPERIENCES = [
             en: "Code and build something in everyday."
         },
         duration: {
-            vi: "Tháng 1/2020 - Hiện tại",
-            en: "Jan 2020 - Present"
+            vi: "04/2024 - Hiện tại",
+            en: "04/2024 - Present"
         }
     }
 ]

@@ -7,7 +7,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import HomePage from 'pages/home';
-import ProjectPage from 'pages/project';
+// import ProjectPage from 'pages/project';
 import AboutPage from 'pages/about';
 import { AppContextProvider } from 'components/context/app.context';
 import '@/i18n';
@@ -21,10 +21,10 @@ const router = createBrowserRouter([
         index: true,
         element: <HomePage />
       },
-      {
-        path: "/project",
-        element: <ProjectPage />,
-      },
+      // {
+      //   path: "/project",
+      //   element: <ProjectPage />,
+      // },
       {
         path: "/about",
         element: <AboutPage />,
